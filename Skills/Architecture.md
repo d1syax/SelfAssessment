@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components k
-  - Directories h
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 👂 heard
   - GRASP
   - SOLID
   - GoF patterns
