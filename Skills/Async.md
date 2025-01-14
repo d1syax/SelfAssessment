@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch` k
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks k
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Thenable 
+  - Promise k
+  - Async/await k
+  - Future 
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event h
   - Coroutine
   - Goroutine
   - Signal
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers k
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -68,7 +68,7 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell k
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all k
+  - Promise.allSettled k
+  - Promise.race k
+  - Promise.any k
   - Web Locks API
   - IPC
   - Channel API
