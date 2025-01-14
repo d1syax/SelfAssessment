@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u 
-  - `Number` u 
-  - `BigInt` k
-  - `String`  u
-  - `Symbol` k
-  - `Infinity` k 
-  - `NaN` u 
-  - `undefined` u
-  - `null` u 
-  - `this` u 
-  - `instanceof` u
-  - `...spread` u 
-  - `...rest` u
-  - `typeof` u
-  - Destructuring k
-  - Generators 
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🎓 known
+  - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining k
-  - Optional chaining k
-  - IIFE 
+  - Chaining: 🎓 known
+  - Optional chaining: 🎓 known
+  - IIFE
   - Async IIFE
-  - `global` k
-  - `globalThis` k
-  - `window` k
-  - Getters and setters k
-  - `__proto__` k
-  - `prototype` k
-  - Equality operators u
-  - Logical operators u 
-  - Logical Assignment u
-  - Bitwise operators u
-  - Ternary operator u
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters: 🎓 known
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
-  - `await` k
+  - `await`: 🎓 known
   - Template literal
-  - Strict mode u
-  - Hoisting 
-  - `delete` u
-  - `in` 
-  - `super` k
-  - `eval` 
-  - `static` k
-  - `Number.parseInt` k
+  - Strict mode: 🖐️ used
+  - Hoisting
+  - `delete`: 🖐️ used
+  - `in`
+  - `super`: 🎓 known
+  - `eval`
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`
-  - Property descriptors 
-  - Sealing properties 
+  - Property descriptors
+  - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields k
-  - Private class fields k
-  - Private class methods k
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` u
-  - `break` u
-  - `continue` k
-  - `import` 
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🎓 known
+  - `import`
   - `export`
   - `label`
-  - `try..catch` k
-  - `switch` u
-  - `class` u
-  - `extends` u
-  - `with` 
-  - `new` u
+  - `try..catch`: 🎓 known
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function u
-  - Async function k
-  - Function declaration u
-  - Function expression u 
-  - Default parameters u
-  - Functional object u
-  - `Function.prototype.call` h
-  - `Function.prototype.bind` h
-  - `Function.prototype.apply` h
-  - `return` u
+  - Arrow function: 🖐️ used
+  - Async function: 🎓 known
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
-  - `Map` k
-  - `Set` k
-  - `WeakMap` k
-  - `WeakSet` k
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
+  - `WeakMap`: 🎓 known
+  - `WeakSet`: 🎓 known
   - Typed arrays
   - Mixins
-  - `Object.assign` k
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` u
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` u
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON` k
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` k
-  - `console` u
-  - Timers k
+  - `Promise`: 🎓 known
+  - `console`: 🖐️ used
+  - Timers: 🎓 known
 - Infrastructure
   - V8
   - Node.js
   - npm
-  - prettier h
-  - MDN u
+  - prettier: 👂 heard
+  - MDN: 🖐️ used
   - TC39

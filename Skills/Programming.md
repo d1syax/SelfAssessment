@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax k
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar u
-  - Literal k
-  - Expression k
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🎓 known
+  - Expression: 🎓 known
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method u
-  - Class u
-  - Prototype k
-  - Event h
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🎓 known
+  - Event: 👂 heard
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops k
+  - Loops: 🎓 known
   - Assignment
   - Regular expression
   - Interface
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case k
-  - Snake case k
-  - Kebab case k
+  - Camel case: 🎓 known
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 
-  - Argument u
-  - Parameter u
+  - Signature
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression u
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure k
+  - Closure: 🎓 known
   - Partial application
   - Currying
-  - Higher order k
-  - Recursion k
+  - Higher order: 🎓 known
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback k
+  - Callback: 🎓 known
   - Listener
-  - Composition k
-  - Pipe k
+  - Composition: 🎓 known
+  - Pipe: 🎓 known
   - Memoize
   - Wrapper
   - Functor
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure 
+  - Array: 🖐️ used
+  - Structure
   - Record
   - Enum
   - Instance
-  - Object u
+  - Object: 🖐️ used
   - Collection
-  - Set k
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
@@ -123,12 +123,12 @@
   - Deque
   - Tree
   - Graph
-  - Iterator u
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON k
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
