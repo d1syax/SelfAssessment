@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal k
+  - Expression k
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
+  - Method u
+  - Class u
+  - Prototype k
+  - Event h
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops k
   - Assignment
   - Regular expression
   - Interface
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case k
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature 
+  - Argument u
+  - Parameter u
   - Pure function
-  - Lambda expression
+  - Lambda expression u
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order k
+  - Recursion k
   - Tail call optimisation
-  - Callback
+  - Callback k
   - Listener
-  - Composition
-  - Pipe
+  - Composition k
+  - Pipe k
   - Memoize
   - Wrapper
   - Functor
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure 
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
-  - Set
+  - Set k
   - Hash table
   - Linked list
   - Doubly list
@@ -123,12 +123,12 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON k
   - JSON5
   - YAML
 - Networking
