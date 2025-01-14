@@ -27,14 +27,14 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor k
+  - Operator `new` k
+  - Static method k
+  - Method k
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters k
+  - Public fields k
+  - Private fields k 
   - Field declarations
   - Inheritance
   - Parent class
